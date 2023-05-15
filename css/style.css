@@ -1,0 +1,63 @@
+/* Global styles */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  /* Main styles */
+  
+  .container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Form styles */
+  
+  #search-form {
+    margin-top: 2rem;
+  }
+  
+  #search-input {
+    width: 70%;
+  }
+  
+  /* Results styles */
+  
+  #search-results {
+    margin-top: 2rem;
+  }
+  
+  /* Table styles */
+  
+  .table {
+    margin-top: 2rem;
+  }
+  
+  /* Payment form styles */
+  
+  #payment-form {
+    margin-top: 2rem;
+  }
+  
+  #card-element {
+    margin-top: 1rem;
+  }
+  
+  #submit-payment {
+    margin-top: 1rem;
+  }
+  
+  /* Footer styles */
+  
+  footer {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  

@@ -1,0 +1,36 @@
+/* Global styles */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  /* Main styles */
+  
+  .container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Form styles */
+  
+  #search-form {
+    margin-top: 2rem;
+  }
+  
+  #search-input {
+    width: 70%;
+  }
+  
+  /* Results styles */
+  
+  #search-results {
+    margin-top: 2rem;
+  }
+  
